@@ -1,7 +1,7 @@
 package com.kandoka.strategy;
 
 /**
- * @Description 攻击行为
+ * @Description 攻击策略
  * @Author kandoka
  * @Date 2022/10/20 19:56
  */

@@ -3,7 +3,7 @@ package com.kandoka.strategy;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @Description 旋风斩！
+ * @Description 具体策略：旋风斩！
  * @Author kandoka
  * @Date 2022/10/20 20:01
  */

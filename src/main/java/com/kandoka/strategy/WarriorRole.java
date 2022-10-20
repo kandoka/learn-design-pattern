@@ -7,6 +7,7 @@ package com.kandoka.strategy;
  */
 public class WarriorRole extends Role {
     public WarriorRole() {
+        //传入实现的具体策略
         super("勇士", new XFZAttackBehavior(), new DPGDDefendBehavior());
     }
 
