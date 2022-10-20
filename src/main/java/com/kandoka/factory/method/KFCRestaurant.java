@@ -1,7 +1,7 @@
 package com.kandoka.factory.method;
 
 /**
- * @Description KFC，餐厅的子类，用来实现创建食物的方法
+ * @Description KFC，餐厅的子类，用来实现创建食物的工厂方法
  * @Author kandoka
  * @Date 2022/10/20 11:12
  */
